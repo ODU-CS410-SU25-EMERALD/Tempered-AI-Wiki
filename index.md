@@ -7,45 +7,28 @@ permalink: /
 
 ---
 
-# Coming Soon
+# Introducing EduSense: Guiding AI Use in Education
+EduSense is a web application designed to **govern and guide the use of Artificial Intelligence (AI)**, specifically Large Language Models (LLMs), within an educational environment.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
-volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
-dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
-litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
-diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
-ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.
+# The Problem
+The increasing reliance on AI tools such as ChatGPT for schoolwork raises **concerns about the decline of essential student skills**, including critical thinking, creativity, and problem-solving. Studies indicate that students who depend too heavily on AI for assignments may score lower and struggle with analytical reasoning, often trusting AI-generated responses without proper verification. This misuse can subvert the learning process and lead to poorer quality work, making it difficult for educators to assess true comprehension.
 
-Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
-egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
-neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
-fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
-molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
-bibendum, vel congue leo egestas.
 
-Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
-amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
-molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
-interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
-lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
-in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
-est.
+# The Solution: EduSense
+EduSense transforms LLMs into an **intentional educational tool** for both students and educators.
 
-Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
-Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
-non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
-eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
-quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
-ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
-placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
-convallis.
+# For Students
+It encourages students to "think first" by employing features such as **guided questions**, **reflective prompts**, and **challenge modes** that limit or delay direct AI input.
 
-Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
-malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
-gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
-libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
-sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
-libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
-vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+This approach is designed to prevent over-reliance on AI and help students build stronger critical thinking and problem-solving skills.
+
+# For Educators
+EduSense provides **essential oversight features** to effectively manage AI use in assignments.
+
+Educators can **upload assignments**, **monitor student LLM interactions,** and utilize features such as **usage tracking** and **copy/paste restrictions** to review how students are engaging with the AI.
+
+This ensures that AI is **supporting, not subverting**, the learning process, and helps educators identify problem areas in comprehension.
+
+EduSense is currently in development with the core purpose of teaching students **how to use LLMs as an effective educational aid**, rather than a shortcut to direct answers.
 
 {% include footer.md %}
