@@ -7,7 +7,8 @@ permalink: /
 
 ---
 
-# Introducing EduSense: Guiding AI Use in Education
+# Introducing EduSense: 
+# Guiding AI Use in Education
 EduSense is a web application designed to **govern and guide the use of Artificial Intelligence (AI)**, specifically Large Language Models (LLMs), within an educational environment.
 
 # The Problem
