@@ -1,2 +1,2 @@
-# Tempered-AI-Wiki
-Wiki for EduSense (Lab 3)
+* [Website](https://odu-cs410-su25-emerald.github.io/Tempered-AI/)
+* [Presentations](https://odu-cs410-su25-emerald.github.io/Tempered-AI/presentations/)

@@ -1,0 +1,13 @@
+title: EduSense
+theme: jekyll-theme-minimal
+baseurl: "/Tempered-AI-Wiki"
+
+logo: /assets/images/logo.png
+
+include:
+  - assets/css
+
+plugins:
+  - jekyll-feed
+
+
