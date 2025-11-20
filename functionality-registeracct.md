@@ -1,5 +1,5 @@
 ---
-title: How to register an account
+title: How to register your account
 permalink: /functionalities/registeracct/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/registeracct/
 
 ---
 
-# How to register an account:
+# How to register your account:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
