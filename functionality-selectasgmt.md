@@ -1,5 +1,5 @@
 ---
-title: How to select an assignment to work on (students)
+title: How to select an assignment to work on
 permalink: /functionalities/selectasgmt/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/selectasgmt/
 
 ---
 
-# How to select an assignment to work on (students):
+# How to select an assignment to work on:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

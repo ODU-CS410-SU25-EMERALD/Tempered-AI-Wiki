@@ -1,5 +1,5 @@
 ---
-title: How to view a student's conversation with the AI (educators)
+title: How to view a student's conversation with the AI
 permalink: /functionalities/viewstudentlog/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/viewstudentlog/
 
 ---
 
-# How to view a student's conversation with the AI (educators):
+# How to view a student's conversation with the AI:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

@@ -1,5 +1,5 @@
 ---
-title: How to register a course (educators)
+title: How to register a course
 permalink: /functionalities/addcourse/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/addcourse/
 
 ---
 
-# How to register a course (educators):
+# How to register a course:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

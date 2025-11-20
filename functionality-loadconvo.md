@@ -1,5 +1,5 @@
 ---
-title: How to load a prior conversation with the AI (students)
+title: How to load a prior conversation with the AI
 permalink: /functionalities/loadconvo/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/loadconvo/
 
 ---
 
-# How to load a prior conversation with the AI (students):
+# How to load a prior conversation with the AI:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

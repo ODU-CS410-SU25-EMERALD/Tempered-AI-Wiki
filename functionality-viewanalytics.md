@@ -1,5 +1,5 @@
 ---
-title: How to utilize the analytics page (educators)
+title: How to utilize the analytics page
 permalink: /functionalities/viewanalytics/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/viewanalytics/
 
 ---
 
-# How to utilize the analytics page (educators):
+# How to utilize the analytics page:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

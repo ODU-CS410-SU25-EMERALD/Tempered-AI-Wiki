@@ -1,5 +1,5 @@
 ---
-title: How to create an assignment(educators)
+title: How to create an assignment
 permalink: /functionalities/addasgmt/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/addasgmt/
 
 ---
 
-# How to create an assignment(educators):
+# How to create an assignment:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

@@ -1,5 +1,5 @@
 ---
-title: How to interact with the AI (students)
+title: How to interact with the AI
 permalink: /functionalities/interactwithai/
 ---
 
@@ -7,7 +7,7 @@ permalink: /functionalities/interactwithai/
 
 ---
 
-# How to interact with the AI (students):
+# How to interact with the AI:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
