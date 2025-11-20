@@ -25,5 +25,8 @@ permalink: /toc/
 <h2>Other</h2>
 <h3><a href="{{ site.baseurl }}/glossary/">Glossary</a></h3>
 <h3><a href="{{ site.baseurl }}/references/">References</a></h3>
+<br>
+<br>
+<br>
 
 {% include footer.md %}
