@@ -1,13 +1,13 @@
 ---
-title: Functionality 3
-permalink: /functionalities/functionality3/
+title: How to register an account
+permalink: /functionalities/registeracct/
 ---
 
-{% include header_functionalities.md %}
+{% include header.md %}
 
 ---
 
-# Coming Soon
+# How to register an account:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

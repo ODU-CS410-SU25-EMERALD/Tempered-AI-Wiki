@@ -1,13 +1,13 @@
 ---
-title: Functionality 2
-permalink: /functionalities/functionality2/
+title: How to create an assignment(educators)
+permalink: /functionalities/addasgmt/
 ---
 
-{% include header_functionalities.md %}
+{% include header.md %}
 
 ---
 
-# Coming Soon
+# How to create an assignment(educators):
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
 volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
